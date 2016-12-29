@@ -15,3 +15,8 @@ Este programa nos permite crear una dirección bitcoin aleatoria.
 
 Se necesitan tener instaladas las librerias de vbuterin: https://github.com/vbuterin/pybitcointools
 
+addr-word.py
+
+Este programa nos permite crear una dirección bitcoin entrado una palabra o frase
+
+Se necesitan tener instaladas las librerias de vbuterin: https://github.com/vbuterin/pybitcointools
